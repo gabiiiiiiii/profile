@@ -1,0 +1,18 @@
+
+.top{width:100%; background-color:white; position: fixed; top:0; line-height: 80px;} 
+
+.hide {position: absolute; top: -999em;}
+
+ul{background-color:white; float: right;}
+
+.top li{height:80px; float:left; text-align: left; padding: 0 15px; font-size: 15px; font-weight: bolder; margin-right: 30px;}
+
+ul li a:hover{color:white;}
+
+ul li a:active{color: black;}
+
+.bottom{width:100%; height:50px; float:left; background-color: white; color:black;}
+
+.bottom li{float: left; padding: 5px; color: black;}
+
+h1 img{width: 60px; height: 60px; border-radius: 30px; float: left; margin-top: 10px;}

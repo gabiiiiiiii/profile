@@ -1,0 +1,19 @@
+*{margin:0; padding:0;}
+
+ol,ul,li{list-style:none; padding:0;}
+img,fieldset {border: 0 none;}
+input, select, textarea {vertical-align: middle; resize: none; position: relative;}
+a {outline: none; text-decoration: none; color:inherit;}
+
+input,textarea {-webkit-appearance:none; -webkit-border-radius:0;}
+input[type="checkbox"] {-webkit-appearance:checkbox;}
+input[type="radio"] {-webkit-appearance:radio; -webkit-border-radius:10px;}
+button{border: 0 none; background:transparent; cursor: pointer;}
+
+legend, .hide{width:0; height:0; visibility: hidden; font-size: 0; line-height: 0; position: absolute; top:0; left:0; overflow:hidden;}
+table caption{width:0; height:0; visibility: hidden; text-indent: -999px; font-size: 0; line-height: 0;}
+table{border-collapse: collapse; border-spacing: 0;}
+header,footer,section,article,aside,nav,hgroup,details,menu,figure,figcaption{display: block;}
+
+body,input,select, button,textarea, h1,h2,h3,h4,h5,h6, table, div,p
+{font-family: 'NanumSquare', sans-serif; letter-spacing: -0.025em;}
